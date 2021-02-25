@@ -1,7 +1,7 @@
 ## Privacy Policy
 
 
-Thank you for playing the games developed and published by Kotikov Alexander
+Thank you for playing the games developed and published by Kotikov Alexander. 
 As used in this Privacy Policy, «we», «us» or «our», «ours» refers to Kotikov Alexander and his team.
 
 We respect and value your privacy.
@@ -28,7 +28,7 @@ in our Service at all.
 We don't collect any information from user's  device.
 
 ## IN-APP PURCHASES
-The service doesn't have such features.
+The Service doesn't have such features.
 
 ## CHILDREN
 We do not collect information about children under the age of 13. In the event any personal information was collected, we will delete it as soon as possible if you contact us in writing by using the e-mail specified in Chapter «Contact Information» of this Privacy Policy.
