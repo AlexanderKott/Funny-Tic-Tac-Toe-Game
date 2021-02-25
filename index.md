@@ -25,7 +25,7 @@ We do not specifically market to children under 13. We don't advertise anything
 in our Service at all.
 
 ## HOW WE USE COLLECTED INFORMATION
-We don't collect any information from user's (player) device.
+We don't collect any information from user's  device.
 
 ## IN-APP PURCHASES
 The service doesn't have such features.
@@ -33,13 +33,16 @@ The service doesn't have such features.
 ## CHILDREN
 We do not collect information about children under the age of 13. In the event any personal information was collected, we will delete it as soon as possible if you contact us in writing by using the e-mail specified in Chapter «Contact Information» of this Privacy Policy.
 
+Although we do our best to make our services safe for the widest possible audience, we strongly recommend that parents or legal guardians check the Service themselves before allowing children to use it.
+If you are a minor, we advice you seek permission from your parent or legal guardian to use it.
+
 ## THIRD PARTY
 The Service does not transmit any data to any third party.
 We don't provide any links to third-party Web sites or services.
 
 ## SECURITY
 The Service doesn't transmit your personal information via any internet services.
-All your information stay on your device, no collecting or/and transmitting.
+All your information stay on your device, so no collecting or/and transmitting.
 
 ## SENSITIVE INFORMATION
 We ask that you not send us, and you not to disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through the Service or otherwise to us.
